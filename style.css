@@ -31,7 +31,7 @@ body    {
 }
 
 .welcome{
-    background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
+    background-image:"h_img.jpg";
     background-size: cover;
     height: 100vh;
     display:flex;
