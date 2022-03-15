@@ -1,7 +1,7 @@
 # delani-studio
 ## Author:
 
-* Christian Williams Jire.
+* Sheila Munuhe.
 
 ## SETUP AND INSTALLATION REQUIRMENTS
 
@@ -29,7 +29,7 @@
 
 ### Contact Info:
 
-christianwilliamsjire@gmail.com
+munuhes3sheila@gmail.com
 
 ## License
 
